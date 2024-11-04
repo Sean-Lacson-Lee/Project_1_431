@@ -1,0 +1,59 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "Bugs",
+            "tasks": [
+                {
+                    "text": "Error when using the labels: Fatal error: exception E (<class 'ValueError'>, Number of labels is 2. Valid values are 2 to n_samples - 1 (inclusive))",
+                    "id": "bdm4ennm1kaj4bkvkdw765ti"
+                }
+            ],
+            "id": "o87guhivp9xonojnkbowilx3",
+            "color": "#eb144c"
+        },
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "Save the result to a file",
+                    "id": "zdf1tbqiu79ovp67fbn6v2e4"
+                }
+            ],
+            "id": "crsczb2urfpb4p4iieu1kw69",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [],
+            "id": "wgxtjn5cyl9zpbskc8bnfdlu",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [
+                {
+                    "text": "Get a working venv setup",
+                    "id": "zs147dhszu3epjm210y12brs"
+                },
+                {
+                    "text": "Fit the data",
+                    "id": "ig6fmp8c2sgfyax4zek2jyc0"
+                },
+                {
+                    "text": "Noramlize the data",
+                    "id": "jounuyte0ymqpxbl8hkgzlqq"
+                },
+                {
+                    "text": "Load the CSV",
+                    "id": "ftcebp36g1zsy5f7dcjtrs4u"
+                }
+            ],
+            "id": "tdr8bvptjcjlzzs6lbimjmq3",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": false,
+    "saveToFile": true,
+    "timestamp": 1730749690358
+}

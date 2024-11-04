@@ -1,0 +1,4 @@
+(executable
+ (name machine_learning)
+ (libraries sklearn csv)
+)
